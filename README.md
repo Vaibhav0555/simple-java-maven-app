@@ -1,5 +1,5 @@
 
-Hello friends
+Hello friends dosto
 
 # simple-java-maven-app2
 
