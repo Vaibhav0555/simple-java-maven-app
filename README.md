@@ -1,6 +1,3 @@
-
-Hello friends dosto
-
 # simple-java-maven-app2
 
 This repository is for the 
